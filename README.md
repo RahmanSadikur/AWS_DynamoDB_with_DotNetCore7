@@ -1,1 +1,0 @@
-# AWS_DynamoDB_with_DotNetCore7
