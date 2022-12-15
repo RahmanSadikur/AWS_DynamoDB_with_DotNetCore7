@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "isoRuwHXGXxUh+MM/UgxmpzCQcw2KJhr/yBbu3r1YW8Aze5SVBLqzyYXZD/QAjYaOnuwkwsgogHZGo8XBTWm4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User-PC\\source\\repos\\RahmanSadikur\\dynamodb-sample\\dynamodb-sample\\dynamodb-sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User-PC\\.nuget\\packages\\awssdk.core\\3.7.102.3\\awssdk.core.3.7.102.3.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.5\\awssdk.dynamodbv2.3.7.101.5.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\User-PC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

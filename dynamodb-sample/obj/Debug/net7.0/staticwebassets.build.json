@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oz/pYO2CEm2qBqW9OiESpVLSjylKpPuvNw8jXE62hCk=",
+  "Source": "dynamodb-sample",
+  "BasePath": "_content/dynamodb-sample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
